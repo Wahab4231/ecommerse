@@ -20,10 +20,4 @@ Follow these steps to get the project up and running:
 - [Laravel 11](https://laravel.com/docs/11.x) (this project is built with Laravel 11)
 - [MySQL](https://dev.mysql.com/downloads/mysql/) or another supported database
 
-### Clone the Repository
 
-First, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/ecommerse.git
-cd ecommerse
